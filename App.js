@@ -61,7 +61,7 @@ const styles = StyleSheet.create({
   },
 
   header: {
-    fontSize: 150,
+    fontSize: 100,
     fontFamily: "Times New Roman",
     marginTop: 8,
     marginBottom: 8,
